@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f5;
+}
+
+.wrapper{
+    width: 600px;
+    margin: 10px auto 0 auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 #30475e, 0 4px 8px 0 #30475e;
+    min-height: 10px;
+    
+}
+
+h2{
+    text-align: center;
+}
+ 
+.name{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin: 10px 0 15px 0;
+}
+.dob{
+    display: inline-block;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    margin: 10px 0 15px 15px;
+}
+.radio{
+    margin: 20px 0 10px 0;
+}
+select{
+    margin: 20px 0 10px 0;
+}
+button{
+width: 39%;
+padding: 10px;
+border: none;
+border-radius: 15px;
+background-color: #30475e;
+font-size: 15px;
+color: #ffffff;
+} 
